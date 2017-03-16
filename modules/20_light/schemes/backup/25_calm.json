@@ -1,0 +1,156 @@
+{
+  "de": "Ruhe",
+  "en": "Calm",
+  "icon": "leaf",
+  "prominent": true,
+  "dmx": {
+    "lab": {
+    "id": 4,
+    "value": 0
+    },
+    "segment 0 col 0": {
+        "id": 20,
+        "value": 161
+    },
+    "segment 0 col 1": {
+        "id": 21,
+        "value": 45
+    },
+    "segment 0 col 2": {
+        "id": 22,
+        "value": 0
+    },
+    "segment 1 col 0": {
+        "id": 23,
+        "value": 196
+    },
+    "segment 1 col 1": {
+        "id": 24,
+        "value": 146
+    },
+    "segment 1 col 2": {
+        "id": 25,
+        "value": 0
+    },
+    "segment 2 col 0": {
+        "id": 26,
+        "value": 196 
+    },
+    "segment 2 col 1": {
+        "id": 27,
+        "value": 85
+    },
+    "segment 2 col 2": {
+        "id": 28,
+        "value": 0
+    },
+    "segment 3 col 0": {
+        "id": 29,
+        "value": 111
+    },
+    "segment 3 col 1": {
+        "id": 30,
+        "value": 136
+    },
+    "segment 3 col 2": {
+        "id": 31,
+        "value": 0
+    },
+    "segment 4 col 0": {
+        "id": 32,
+        "value": 173
+    },
+    "segment 4 col 1": {
+        "id": 33,
+        "value": 106
+    },
+    "segment 4 col 2": {
+        "id": 34,
+        "value": 0
+    },
+    "segment 5 col 0": {
+        "id": 35,
+        "value": 161
+    },
+    "segment 5 col 1": {
+        "id": 36,
+        "value": 45
+    },
+    "segment 5 col 2": {
+        "id": 37,
+        "value": 0
+    },
+    "segment 6 col 0": {
+        "id": 38,
+        "value": 161
+    },
+    "segment 6 col 1": {
+        "id": 39,
+        "value": 45
+    },
+    "segment 6 col 2": {
+        "id": 40,
+        "value": 0
+    },
+    "segment 7 col 0": {
+        "id": 41,
+        "value": 173
+    },
+    "segment 7 col 1": {
+        "id": 42,
+        "value": 106
+    },
+    "segment 7 col 2": {
+        "id": 43,
+        "value": 0
+    },
+    "segment 8 col 0": {
+        "id": 44,
+        "value": 111
+    },
+    "segment 8 col 1": {
+        "id": 45,
+        "value": 136
+    },
+    "segment 8 col 2": {
+        "id": 46,
+        "value": 0
+    },
+    "segment 9 col 0": {
+        "id": 47,
+        "value": 196
+    },
+    "segment 9 col 1": {
+        "id": 48,
+        "value": 85
+    },
+    "segment 9 col 2": {
+        "id": 49,
+        "value": 0
+    },
+    "segment 10 col 0": {
+        "id": 50,
+        "value": 196
+    },
+    "segment 10 col 1": {
+        "id": 51,
+        "value": 146
+    },
+    "segment 10 col 2": {
+        "id": 52,
+        "value": 0
+    },
+    "segment 11 col 0": {
+        "id": 53,
+        "value": 161
+    },
+    "segment 11 col 1": {
+        "id": 54,
+        "value": 45
+    },
+    "segment 11 col 2": {
+        "id": 55,
+        "value": 0
+    }    
+  }
+}

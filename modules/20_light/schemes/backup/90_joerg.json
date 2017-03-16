@@ -1,0 +1,32 @@
+{
+  "de": "Jörg",
+  "en": "Jörg",
+  "icon": "user",
+  "prominent": false,
+  "dmx": {
+    "segment 6 col 0": {
+        "id": 38,
+        "value": 255
+    },
+    "segment 6 col 1": {
+        "id": 39,
+        "value": 0
+    },
+    "segment 6 col 2": {
+        "id": 40,
+        "value": 128
+    },
+    "segment 7 col 0": {
+        "id": 41,
+        "value": 255
+    },
+    "segment 7 col 1": {
+        "id": 42,
+        "value": 0
+    },
+    "segment 7 col 2": {
+        "id": 43,
+        "value": 128
+    }
+  }
+}

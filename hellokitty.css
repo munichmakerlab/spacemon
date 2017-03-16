@@ -1,0 +1,41 @@
+/* ===== BASIC STUFF ===== */
+@import "transparent.css";
+@import url("https://fonts.googleapis.com/css?family=Nunito:700");
+
+* {
+font-family: 'Nunito', sans-serif;
+	    text-shadow:  1px  1px 1px black,
+                  1px -1px 1px black,
+                 -1px  1px 1px black,
+                 -1px -1px 1px black;
+}
+body {
+	background: url("images/hellokitty_back.png") no-repeat center center fixed;
+
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+/* ===== LINES ===== */
+
+/* ===== CONTROL AREA ===== */
+
+.controls li {
+	font-size: 30px;
+}
+
+/* ===== FOOTER ===== */
+
+footer li {
+	font-size: 40px;
+	font-family: 'Nunito', sans-serif;
+}
+
+
+.subwaynum {
+	padding: 7px 20px 5px;
+}
+
+/* ===== CONTENT AREA ===== */

@@ -1,0 +1,42 @@
+@import "transparent.css";
+* {
+	text-shadow: none;
+}
+body {
+	background: black;
+}
+
+.contentbox .tiles a {
+	background: rgba(255,255,255,1);
+	color: black;
+}
+/* ===== COLORS ===== */
+.box-helloworld h2 {
+	background: #2BC5BF;
+}
+
+.box-motd h2 {
+	background: #2BC5BF;
+}
+.box-sbahn h2 {
+	background: #FD0900;
+}
+.box-subway h2 {
+	background: #222222;
+}
+.box-printers_neo h2 {
+	background: #0033ee;
+}
+.box-printers_ulti h2 {
+	background: #FF8800;
+}
+.box-music h2 {
+	background: #AA1155;
+}
+li .active {
+	border-bottom: 2px solid white;
+	border-radius: 0px;
+	padding: 0px;
+}
+//#7FB800 green
+//#8B4513 brown

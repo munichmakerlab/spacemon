@@ -1,0 +1,36 @@
+{
+  "de": "Jörg",
+  "en": "Jörg",
+  "icon": "user",
+  "prominent": false,
+  "dmx": {
+    "lamp 1 intensity": {
+        "id": 30,
+        "value": 255
+    },
+    "lamp 1 r": {
+        "id": 31,
+        "value": 255
+    },
+    "lamp 1 g": {
+        "id": 32,
+        "value": 0
+    },
+    "lamp 1 b": {
+        "id": 33,
+        "value": 255
+    },
+    "lamp 1 w": {
+        "id": 34,
+        "value": 50
+    },
+    "lamp 1 color preset": {
+        "id": 35,
+        "value": 0
+    },
+    "lamp 1 fade time": {
+        "id": 37,
+        "value": 5
+    }
+  }
+}

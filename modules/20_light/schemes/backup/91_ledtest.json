@@ -1,0 +1,32 @@
+{
+  "de": "LEDtest",
+  "en": "LEDtest",
+  "icon": "user",
+  "prominent": false,
+  "dmx": {
+    "segment 6 col 0": {
+        "id": 200,
+        "value": 255
+    },
+    "segment 6 col 1": {
+        "id": 201,
+        "value": 255
+    },
+    "segment 6 col 2": {
+        "id": 202,
+        "value": 255
+    },
+    "segment 7 col 0": {
+        "id": 203,
+        "value": 255
+    },
+    "segment 7 col 1": {
+        "id": 204,
+        "value": 0
+    },
+    "segment 7 col 2": {
+        "id": 205,
+        "value": 0
+    }
+  }
+}
