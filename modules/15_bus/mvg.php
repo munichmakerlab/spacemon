@@ -31,7 +31,7 @@ $api_key = "5af1beca494712ed38d313714d4caff6";
 $contextData = array (
                 'method' => 'GET',
                 'header' => "Connection: close\r\n".
-                            "X-MVG-Authorization-Key : ". $api_key ."\r\n" );
+                            "X-MVG-Authorization-Key: ". $api_key ."\r\n" );
                 // 'content'=> $query );
 
 // Create context resource for our request
