@@ -12,8 +12,8 @@
 			console.log("sending " + params);
 			get_volume();
 	}
-	//mpd_sendcmd("volume");
-	get_volume();
+	mpd_sendcmd("volume");
+	// get_volume();
 	window.setInterval("get_volume();",20000);
 	</script>
 	<div id="commandsender" style="display:none;"></div>
@@ -28,6 +28,6 @@
 	<li onclick="mpd_sendcmd('play');" class="fa fa-play"></li>
 	<li onclick="mpd_sendcmd('next');" class="fa fa-step-forward"></li>
 	<li class="fa">&nbsp;&nbsp;&nbsp;&nbsp;</li>
-	<li onclick="send_command('volume down');" class="fa fa-volume-down"></li>
+	<li onclick="mpd_sendcmd('voldown');" class="fa fa-volume-down"></li>
 	<li class="fa"><span id="volume">%</span></li>
-	<li onclick="send_command('volume up');" class="fa fa-volume-up"></li>
+	<li onclick="mpd_sendcmd('volup');" class="fa fa-volume-up"></li>
