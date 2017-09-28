@@ -14,7 +14,7 @@
 	}
 	mpd_sendcmd("volume");
 	// get_volume();
-	window.setInterval("get_volume();",20000);
+	window.setInterval("mpd_sendcmd('volume');",20000);
 	</script>
 	<div id="commandsender" style="display:none;"></div>
 	<?php
